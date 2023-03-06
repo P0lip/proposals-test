@@ -1,0 +1,7 @@
+title: test
+x-stoplight:
+  id: q1ymu6xgpqxem
+type: object
+properties:
+  id:
+    type: string
