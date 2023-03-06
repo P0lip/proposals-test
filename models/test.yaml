@@ -5,3 +5,7 @@ type: object
 properties:
   id:
     type: string
+  name:
+    type: string
+    x-stoplight:
+      id: mrcsnu5xk6kz5
